@@ -1,0 +1,2 @@
+# SBRE-ProyectoFinal
+Proyecto que contabiliza, controla y organiza las ventas en una determinada empresa con el objetivo de tener una mejor eficiencia, Solicitado por el profesor Starling Germosen, en la materia de Base De Datos de la seccion: 0541, Participantes: Starlyn Salas 18-MIIT-1-065 Samuel Pérez 18-SIIN-1-029 Ray Arias 18-SIIN-1-093 Brailin Dotel 18-EIIN-1-099 Enrique González 18-SIIN-1-065 
